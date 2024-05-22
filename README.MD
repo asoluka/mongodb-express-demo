@@ -1,6 +1,8 @@
 ### Project Setup
 Run  `git clone https://github.com/asoluka/mongodb-express-demo.git`
+
 Run `cd mongodb-express-demo`
+
 Run `npm install`
 
 ### Env Variable
